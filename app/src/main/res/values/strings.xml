@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberOfFilesAndDirectoriesInExternalStorage</string>
+    <string name="showfiles">ShowFiles</string>
+    <string name="showFilesLength">ShowFilesLength</string>
+    <string name="showFirst10FilesWithSizes">showFirst10FilesWithSizes</string>
+    <string name="showAverageFilesize">showAverageFilesize</string>
+    <string name="showFileFrequencies">showFileFrequencies</string>
+</resources>
