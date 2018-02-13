@@ -1,15 +1,6 @@
-package com.example.chanakya.numberoffilesanddirectoriesinexternalstorage;
+package com.example.chanakya.numberoffilesanddirectoriesinexternalstorage.Util;
 
-import android.Manifest;
-
-import android.content.pm.PackageManager;
-import android.os.Build;
 import android.os.Environment;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
-import android.util.Log;
-
-import static android.support.v4.app.ActivityCompat.requestPermissions;
 
 /**
  * Created by chanakya on 2/11/18.
